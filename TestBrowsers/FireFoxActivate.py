@@ -7,5 +7,7 @@ service = Service(GeckoDriverManager().install())
 driver = webdriver.Firefox(service=service)
 
 driver.get("https://sinoptik.ua/")
+driver.maximize_window()
 
 time.sleep(3)
+driver.quit()

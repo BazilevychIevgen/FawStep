@@ -1,3 +1,2 @@
 1.Download Google_Chrome and Mozila_Firefox browsers on PC
-2.Install selenium_webdriver_manager
-run command pip install selenium webdriver-manager
+2.Install selenium_webdriver_manager - run command 'pip install selenium webdriver-manager'
